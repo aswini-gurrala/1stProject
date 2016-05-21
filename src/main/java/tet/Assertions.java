@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 
 
-
+//hello
 public class Assertions extends BasePage {
 
     @FindBy(xpath ="//*[@id='basket_title']/h2")
